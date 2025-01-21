@@ -1,0 +1,7 @@
+{
+    "python.testing.pytestArgs": [
+        "Lesson01_BitsBytesNumberBaseSystems"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true
+}
